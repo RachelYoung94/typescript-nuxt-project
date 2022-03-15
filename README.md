@@ -24,14 +24,3 @@ npm start
 ```sh
 npm run generate #=> Then distribute /dist
 ```
-
-## FAQ
-
-- Q. How about providing sample usage of "xyz" (The name of OSS which you want to use)?
-  - A. Recommend running into [create-nuxt-app](https://github.com/nuxt/create-nuxt-app). This template aims to provide a minimal sample that follows the latest version of Nuxt.js and [@nuxt/typescript](https://github.com/nuxt/typescript). 
-- Q. I think the usage of Vuex is not typed enough...?
-  - A. We know! We desire the next major version of Vuex (v4) saves our bacon.
-
-## Miss the old way of this repository?
-
-That still alives on [master](https://github.com/nuxt-community/typescript-template/tree/master) branch.
