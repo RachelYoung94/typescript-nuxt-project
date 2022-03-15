@@ -2,24 +2,6 @@
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js) + [@nuxt/typescript](https://github.com/nuxt/typescript) starter project template.
 
-## Setup
-
-Create your repository by [Use this template](https://github.com/nuxt-community/typescript-template/generate) button from [this template](https://github.com/nuxt-community/typescript-template) and clone into your local.
-
-Then, run below command and follow its message.
-
-```
-./init.sh
-```
-
-The command will ask your preference for the API to write Vue component among:
-
-- Options API
-- Class API with with nuxt-property-decorator
-- Composition API (Experimental) with [@nuxt/composition-api](https://github.com/nuxt-community/composition-api)
-
-## Usage
-
 ### Run Development server
 
 ```sh
