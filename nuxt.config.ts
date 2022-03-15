@@ -18,9 +18,10 @@ const config: NuxtConfig = {
     link: []
   },
   loading: { color: '#0c64c1' },
-  modules: [],
+  modules: ['@nuxt/http'],
   plugins: [
-    '~/plugins/truncate'
+    '@/plugins/truncate',
+    '@/plugins/vue-placeholders'
   ]
 }
 
